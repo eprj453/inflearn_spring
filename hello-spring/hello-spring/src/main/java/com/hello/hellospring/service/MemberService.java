@@ -9,12 +9,11 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.Optional;
 
-@Service
+
 public class MemberService {
 
     private final MemberRepository repo;
 
-    @Autowired
     // MemberRepository를 new로 직접 생성하지 않고, 생성자로 외부에서 넣어주도록 구조를 변경한다.
     public MemberService(MemberRepository repo) {
         this.repo = repo;
