@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d553d963-5690-4754-ad81-c801a3a2e30a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hello-spring/src/main/java/com/hello/hellospring/repository/SpringDataJpaMemberRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring/src/main/java/com/hello/hellospring/SpringConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring/src/main/java/com/hello/hellospring/SpringConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring/src/test/java/com/hello/hellospring/service/MemberServiceIntegrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring/src/test/java/com/hello/hellospring/service/MemberServiceIntegrationTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/hello-spring">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/hello-spring">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1frXDheBSvDCnuVCw1F6rf43MdA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../log_model" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.hello.hellospring.service" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.MemberServiceIntegrationTest">
+    <configuration name="MemberServiceIntegrationTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/hello-spring" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.hello.hellospring.service.MemberServiceIntegrationTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MemberServiceIntegrationTest.회원가입" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/hello-spring" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.hello.hellospring.service.MemberServiceIntegrationTest.회원가입&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MemberServiceIntegrationTest.중복회원검증" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/hello-spring" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.hello.hellospring.service.MemberServiceIntegrationTest.중복회원검증&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MemberServiceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/hello-spring" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.hello.hellospring.service.MemberServiceTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="hello-spring" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/hello-spring" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="HelloSpringApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hello-spring.hello-spring.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hello.hellospring.HelloSpringApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.MemberServiceIntegrationTest" />
+        <item itemvalue="Gradle.MemberServiceIntegrationTest.회원가입" />
+        <item itemvalue="Gradle.MemberServiceIntegrationTest.중복회원검증" />
+        <item itemvalue="Gradle.MemberServiceTest" />
+        <item itemvalue="Gradle.hello-spring" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d553d963-5690-4754-ad81-c801a3a2e30a" name="Default Changelist" comment="" />
+      <created>1596977066467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596977066467</updated>
+      <workItem from="1596977068068" duration="8939000" />
+      <workItem from="1597463046151" duration="2431000" />
+      <workItem from="1597477290053" duration="8762000" />
+      <workItem from="1597680488697" duration="26000" />
+      <workItem from="1597680713430" duration="1069000" />
+      <workItem from="1597754391238" duration="1031000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="415" y="6" key="#HelloSpringApplication" timestamp="1597680766862">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="415" y="6" key="#HelloSpringApplication/0.0.1536.824@0.0.1536.824" timestamp="1597680766862" />
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1598286425757">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1598286425757" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1598360992757">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1598360992757" />
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1598484576716">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598484576716" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1598484576716">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598484576716" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1598484576716">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598484576716" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1598484576716">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598484576716" />
+    <state width="1478" height="315" key="GridCell.Tab.1.bottom" timestamp="1597704970260">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="315" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597704970260" />
+    <state width="1478" height="315" key="GridCell.Tab.1.center" timestamp="1597704970260">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="315" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1597704970260" />
+    <state width="1478" height="315" key="GridCell.Tab.1.left" timestamp="1597704970260">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="315" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1597704970260" />
+    <state width="1478" height="315" key="GridCell.Tab.1.right" timestamp="1597704970260">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="315" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1597704970260" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1598285907739">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1598285907739" />
+    <state x="376" y="80" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597583251702">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="376" y="80" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1597583251702" />
+    <state x="571" y="328" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598286757828">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="571" y="328" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1598286757828" />
+    <state x="540" y="197" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1597553807348">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="197" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1597553807348" />
+    <state x="499" y="164" key="extract.method.dialog" timestamp="1597583306118">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="164" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1597583306118" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1596977327205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1596977327205" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/hello-spring/src/test/java/com/hello/hellospring/service/MemberServiceTest.java</url>
+          <line>53</line>
+          <properties class="com.hello.hellospring.service.MemberServiceTest" method="중복회원검증">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

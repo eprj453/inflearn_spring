@@ -34,11 +34,11 @@ public class MemberServiceIntegrationTest {
     //    }
 
     @Test
-    @Commit // transactional에 의해 롤백되는 것을 방지하고 DB 반영을 COMMIT
+//    @Commit // transactional에 의해 롤백되는 것을 방지하고 DB 반영을 COMMIT
     void 회원가입() {
         // given
         Member m = new Member();
-        m.setName("hello-test");
+        m.setName("hello-test3");
 
         // when
         Long saveId = memberService.join(m);
