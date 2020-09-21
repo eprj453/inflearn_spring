@@ -1,0 +1,19 @@
+spring:
+  datasource: # DB 설정
+    url: jdbc:h2:tcp://localhost/~/jpashop # MVCC=TRUE -> DB가 여러개일 경우 비교적 빠른 속도 제공
+    username: sa
+    password:
+    driver-class-name: org.h2.Driver
+
+  jpa: # jpa 설정
+    hibernate:
+      ddl-auto: create # 자동으로 테이블 생성시켜주는 설정
+    properties: # springboot document에서 필요한 것들을 찾아보자.
+      hibernate:
+        # show_sql: true # 로그가 sysout으로 출력되어서 남음. 저 밑에 org.hibernamte.SQL 설정으로 logger에 남는 것이 바람직함.
+        format_sql: true
+
+logging: # log level
+  level:
+    org.hibernamte.SQL: debug # hibernate의 모든 로그가 debug 모드로 남음.
+#    org.hibernate.type: trace
