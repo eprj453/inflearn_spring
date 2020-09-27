@@ -45,6 +45,16 @@ public abstract class Item {
         }
     }
 
+    public void change(String name, int price, int stockQuantity) {
+        this.name = name;
+        this.price = price;
+        if (stockQuantity < 0) {
+            throw new NotEnoughStockException("재고를 0 이하로 변경할 수 없습니다.");
+        } else {
+            this.stockQuantity = stockQuantity;
+        }
+    }
+
 
 
 
