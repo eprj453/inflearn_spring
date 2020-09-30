@@ -20,32 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4646a92-6e5a-4684-a24b-7f94d1daac72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex1-hello-jpa.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hellojpa/JpaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpa-basic/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpa-basic/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpa-basic/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpa-basic/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpa-basic/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpa-basic/.idea/modules/jpa-basic.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpa-basic/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpa-basic/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpa-basic/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpa-basic/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpa-basic/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpa-basic/src/main/java/hellojpa/JpaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpa-basic/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../real_spring1/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../real_spring1/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../real_spring1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../real_spring1/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../real_spring1/jpashop/src/test/java/jpabook/jpashop/service/MemberServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../real_spring1/jpashop/src/test/java/jpabook/jpashop/service/MemberServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hellojpa/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hellojpa/JpaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hellojpa/JpaMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601474016727</updated>
-      <workItem from="1601474019586" duration="209000" />
+      <workItem from="1601474019586" duration="5661000" />
     </task>
     <servers />
   </component>
@@ -124,5 +101,27 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1601477104383">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1601477104383" />
+    <state width="1493" height="243" key="GridCell.Tab.0.bottom" timestamp="1601480124050">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="243" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601480124050" />
+    <state width="1493" height="243" key="GridCell.Tab.0.center" timestamp="1601480124050">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="243" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601480124050" />
+    <state width="1493" height="243" key="GridCell.Tab.0.left" timestamp="1601480124050">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="243" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601480124050" />
+    <state width="1493" height="243" key="GridCell.Tab.0.right" timestamp="1601480124050">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="243" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601480124050" />
   </component>
 </project>
