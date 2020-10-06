@@ -9,7 +9,7 @@ import java.util.List;
 public class JpaMain {
     public static void main(String[] args) {
         EntityManagerFactory emf = Persistence.createEntityManagerFactory("hello");
-        EntityManager em = emf.createEntityManager();
+        EntityManager em = emf.createEntityManager(); // 영속성 컨텍스트 생성
 
         // 트랜잭션 얻어옴
         EntityTransaction tx = em.getTransaction();
@@ -20,7 +20,9 @@ public class JpaMain {
         try {
             // Member 저장
             Member member = em.find(Member.class, 1L);
-            List<Member> findMembers = em.createQuery("select m from Member m", Member.class).getResultList();
+//            Member member_agian = em.find(Member.class, 1L);
+            member.setName("dirty checking!");
+//            List<Member> findMembers = em.createQuery("select m from Member m", Member.class).getResultList();
             // commit
             tx.commit();
         } catch (Exception e) {
