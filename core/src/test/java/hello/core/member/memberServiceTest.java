@@ -9,13 +9,13 @@ public class memberServiceTest {
     MemberService memberService = new MemberServiceImpl();
 
     @Test
-    void join() {
+    void 회원가입() {
         // given
         Member member = new Member(1L, "memberA", Grade.VIP);
 
         // when
         memberService.join(member);
-        Member findMember = memberService.findMember(2L);
+        Member findMember = memberService.findMember(1L);
 
         // then
         Assertions.assertEquals(member, findMember);
